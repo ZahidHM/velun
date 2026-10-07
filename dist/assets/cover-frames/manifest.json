@@ -1,0 +1,1155 @@
+{
+  "duration_seconds": 20,
+  "fps": 2,
+  "note": "Snapshots of the continuous cover loop; entrance fade is separate.",
+  "frames": [
+    {
+      "mode": "software",
+      "time_seconds": 0.0,
+      "file": "software-cover-00.webp",
+      "scale": 1.015,
+      "brightness": 1.0000000000000002
+    },
+    {
+      "mode": "software",
+      "time_seconds": 0.5,
+      "file": "software-cover-01.webp",
+      "scale": 1.015062786661319,
+      "brightness": 1.0003380820224876
+    },
+    {
+      "mode": "software",
+      "time_seconds": 1.0,
+      "file": "software-cover-02.webp",
+      "scale": 1.01525639188641,
+      "brightness": 1.0013805716960542
+    },
+    {
+      "mode": "software",
+      "time_seconds": 1.5,
+      "file": "software-cover-03.webp",
+      "scale": 1.0155877341874024,
+      "brightness": 1.0031647225475515
+    },
+    {
+      "mode": "software",
+      "time_seconds": 2.0,
+      "file": "software-cover-04.webp",
+      "scale": 1.0160615779700244,
+      "brightness": 1.0057161890693624
+    },
+    {
+      "mode": "software",
+      "time_seconds": 2.5,
+      "file": "software-cover-05.webp",
+      "scale": 1.016679104852504,
+      "brightness": 1.0090413338211752
+    },
+    {
+      "mode": "software",
+      "time_seconds": 3.0,
+      "file": "software-cover-06.webp",
+      "scale": 1.0174361469296245,
+      "brightness": 1.0131177142364403
+    },
+    {
+      "mode": "software",
+      "time_seconds": 3.5,
+      "file": "software-cover-07.webp",
+      "scale": 1.0183213134054916,
+      "brightness": 1.0178839952603398
+    },
+    {
+      "mode": "software",
+      "time_seconds": 4.0,
+      "file": "software-cover-08.webp",
+      "scale": 1.0193144900597404,
+      "brightness": 1.0232318695524483
+    },
+    {
+      "mode": "software",
+      "time_seconds": 4.5,
+      "file": "software-cover-09.webp",
+      "scale": 1.020386416201587,
+      "brightness": 1.029003779547008
+    },
+    {
+      "mode": "software",
+      "time_seconds": 5.0,
+      "file": "software-cover-10.webp",
+      "scale": 1.0214999994188547,
+      "brightness": 1.0349999968707562
+    },
+    {
+      "mode": "software",
+      "time_seconds": 5.5,
+      "file": "software-cover-11.webp",
+      "scale": 1.0226135837984127,
+      "brightness": 1.0409962204529921
+    },
+    {
+      "mode": "software",
+      "time_seconds": 6.0,
+      "file": "software-cover-12.webp",
+      "scale": 1.0236855099402595,
+      "brightness": 1.0467681304475518
+    },
+    {
+      "mode": "software",
+      "time_seconds": 6.5,
+      "file": "software-cover-13.webp",
+      "scale": 1.0246786865945083,
+      "brightness": 1.0521160047396603
+    },
+    {
+      "mode": "software",
+      "time_seconds": 7.0,
+      "file": "software-cover-14.webp",
+      "scale": 1.0255638530703752,
+      "brightness": 1.0568822857635598
+    },
+    {
+      "mode": "software",
+      "time_seconds": 7.5,
+      "file": "software-cover-15.webp",
+      "scale": 1.026320895147496,
+      "brightness": 1.0609586661788248
+    },
+    {
+      "mode": "software",
+      "time_seconds": 8.0,
+      "file": "software-cover-16.webp",
+      "scale": 1.0269384220299755,
+      "brightness": 1.0642838109306374
+    },
+    {
+      "mode": "software",
+      "time_seconds": 8.5,
+      "file": "software-cover-17.webp",
+      "scale": 1.0274122658125975,
+      "brightness": 1.0668352774524483
+    },
+    {
+      "mode": "software",
+      "time_seconds": 9.0,
+      "file": "software-cover-18.webp",
+      "scale": 1.0277436081135898,
+      "brightness": 1.0686194283039456
+    },
+    {
+      "mode": "software",
+      "time_seconds": 9.5,
+      "file": "software-cover-19.webp",
+      "scale": 1.0279372133386808,
+      "brightness": 1.0696619179775122
+    },
+    {
+      "mode": "software",
+      "time_seconds": 10.0,
+      "file": "software-cover-20.webp",
+      "scale": 1.0279999999999998,
+      "brightness": 1.0699999999999998
+    },
+    {
+      "mode": "software",
+      "time_seconds": 10.5,
+      "file": "software-cover-21.webp",
+      "scale": 1.0279372133386808,
+      "brightness": 1.0696619179775122
+    },
+    {
+      "mode": "software",
+      "time_seconds": 11.0,
+      "file": "software-cover-22.webp",
+      "scale": 1.0277436081135898,
+      "brightness": 1.0686194283039456
+    },
+    {
+      "mode": "software",
+      "time_seconds": 11.5,
+      "file": "software-cover-23.webp",
+      "scale": 1.0274122658125975,
+      "brightness": 1.0668352774524483
+    },
+    {
+      "mode": "software",
+      "time_seconds": 12.0,
+      "file": "software-cover-24.webp",
+      "scale": 1.0269384220299755,
+      "brightness": 1.0642838109306374
+    },
+    {
+      "mode": "software",
+      "time_seconds": 12.5,
+      "file": "software-cover-25.webp",
+      "scale": 1.026320895147496,
+      "brightness": 1.0609586661788248
+    },
+    {
+      "mode": "software",
+      "time_seconds": 13.0,
+      "file": "software-cover-26.webp",
+      "scale": 1.0255638530703752,
+      "brightness": 1.0568822857635598
+    },
+    {
+      "mode": "software",
+      "time_seconds": 13.5,
+      "file": "software-cover-27.webp",
+      "scale": 1.0246786865945083,
+      "brightness": 1.0521160047396603
+    },
+    {
+      "mode": "software",
+      "time_seconds": 14.0,
+      "file": "software-cover-28.webp",
+      "scale": 1.0236855099402595,
+      "brightness": 1.0467681304475518
+    },
+    {
+      "mode": "software",
+      "time_seconds": 14.5,
+      "file": "software-cover-29.webp",
+      "scale": 1.0226135837984127,
+      "brightness": 1.0409962204529921
+    },
+    {
+      "mode": "software",
+      "time_seconds": 15.0,
+      "file": "software-cover-30.webp",
+      "scale": 1.0214999994188547,
+      "brightness": 1.0349999968707562
+    },
+    {
+      "mode": "software",
+      "time_seconds": 15.5,
+      "file": "software-cover-31.webp",
+      "scale": 1.020386416201587,
+      "brightness": 1.029003779547008
+    },
+    {
+      "mode": "software",
+      "time_seconds": 16.0,
+      "file": "software-cover-32.webp",
+      "scale": 1.0193144900597404,
+      "brightness": 1.0232318695524483
+    },
+    {
+      "mode": "software",
+      "time_seconds": 16.5,
+      "file": "software-cover-33.webp",
+      "scale": 1.0183213134054916,
+      "brightness": 1.0178839952603398
+    },
+    {
+      "mode": "software",
+      "time_seconds": 17.0,
+      "file": "software-cover-34.webp",
+      "scale": 1.0174361469296245,
+      "brightness": 1.0131177142364403
+    },
+    {
+      "mode": "software",
+      "time_seconds": 17.5,
+      "file": "software-cover-35.webp",
+      "scale": 1.016679104852504,
+      "brightness": 1.0090413338211752
+    },
+    {
+      "mode": "software",
+      "time_seconds": 18.0,
+      "file": "software-cover-36.webp",
+      "scale": 1.0160615779700244,
+      "brightness": 1.0057161890693624
+    },
+    {
+      "mode": "software",
+      "time_seconds": 18.5,
+      "file": "software-cover-37.webp",
+      "scale": 1.0155877341874024,
+      "brightness": 1.0031647225475515
+    },
+    {
+      "mode": "software",
+      "time_seconds": 19.0,
+      "file": "software-cover-38.webp",
+      "scale": 1.01525639188641,
+      "brightness": 1.0013805716960542
+    },
+    {
+      "mode": "software",
+      "time_seconds": 19.5,
+      "file": "software-cover-39.webp",
+      "scale": 1.015062786661319,
+      "brightness": 1.0003380820224876
+    },
+    {
+      "mode": "software",
+      "time_seconds": 20.0,
+      "file": "software-cover-40.webp",
+      "scale": 1.015,
+      "brightness": 1.0000000000000002
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 0.0,
+      "file": "gaming-cover-00.webp",
+      "scale": 1.015,
+      "brightness": 1.0000000000000002
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 0.5,
+      "file": "gaming-cover-01.webp",
+      "scale": 1.0151207435794598,
+      "brightness": 1.0003380820224876
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 1.0,
+      "file": "gaming-cover-02.webp",
+      "scale": 1.0154930613200193,
+      "brightness": 1.0013805716960542
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 1.5,
+      "file": "gaming-cover-03.webp",
+      "scale": 1.016130258052697,
+      "brightness": 1.0031647225475515
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 2.0,
+      "file": "gaming-cover-04.webp",
+      "scale": 1.0170414960962009,
+      "brightness": 1.0057161890693624
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 2.5,
+      "file": "gaming-cover-05.webp",
+      "scale": 1.0182290477932767,
+      "brightness": 1.0090413338211752
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 3.0,
+      "file": "gaming-cover-06.webp",
+      "scale": 1.0196848979415858,
+      "brightness": 1.0131177142364403
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 3.5,
+      "file": "gaming-cover-07.webp",
+      "scale": 1.0213871411644069,
+      "brightness": 1.0178839952603398
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 4.0,
+      "file": "gaming-cover-08.webp",
+      "scale": 1.0232970962687313,
+      "brightness": 1.0232318695524483
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 4.5,
+      "file": "gaming-cover-09.webp",
+      "scale": 1.0253584926953598,
+      "brightness": 1.029003779547008
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 5.0,
+      "file": "gaming-cover-10.webp",
+      "scale": 1.0274999988824127,
+      "brightness": 1.0349999968707562
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 5.5,
+      "file": "gaming-cover-11.webp",
+      "scale": 1.0296415073046399,
+      "brightness": 1.0409962204529921
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 6.0,
+      "file": "gaming-cover-12.webp",
+      "scale": 1.0317029037312684,
+      "brightness": 1.0467681304475518
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 6.5,
+      "file": "gaming-cover-13.webp",
+      "scale": 1.0336128588355928,
+      "brightness": 1.0521160047396603
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 7.0,
+      "file": "gaming-cover-14.webp",
+      "scale": 1.0353151020584141,
+      "brightness": 1.0568822857635598
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 7.5,
+      "file": "gaming-cover-15.webp",
+      "scale": 1.036770952206723,
+      "brightness": 1.0609586661788248
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 8.0,
+      "file": "gaming-cover-16.webp",
+      "scale": 1.037958503903799,
+      "brightness": 1.0642838109306374
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 8.5,
+      "file": "gaming-cover-17.webp",
+      "scale": 1.038869741947303,
+      "brightness": 1.0668352774524483
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 9.0,
+      "file": "gaming-cover-18.webp",
+      "scale": 1.0395069386799805,
+      "brightness": 1.0686194283039456
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 9.5,
+      "file": "gaming-cover-19.webp",
+      "scale": 1.03987925642054,
+      "brightness": 1.0696619179775122
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 10.0,
+      "file": "gaming-cover-20.webp",
+      "scale": 1.0399999999999998,
+      "brightness": 1.0699999999999998
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 10.5,
+      "file": "gaming-cover-21.webp",
+      "scale": 1.03987925642054,
+      "brightness": 1.0696619179775122
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 11.0,
+      "file": "gaming-cover-22.webp",
+      "scale": 1.0395069386799805,
+      "brightness": 1.0686194283039456
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 11.5,
+      "file": "gaming-cover-23.webp",
+      "scale": 1.038869741947303,
+      "brightness": 1.0668352774524483
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 12.0,
+      "file": "gaming-cover-24.webp",
+      "scale": 1.037958503903799,
+      "brightness": 1.0642838109306374
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 12.5,
+      "file": "gaming-cover-25.webp",
+      "scale": 1.036770952206723,
+      "brightness": 1.0609586661788248
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 13.0,
+      "file": "gaming-cover-26.webp",
+      "scale": 1.0353151020584141,
+      "brightness": 1.0568822857635598
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 13.5,
+      "file": "gaming-cover-27.webp",
+      "scale": 1.0336128588355928,
+      "brightness": 1.0521160047396603
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 14.0,
+      "file": "gaming-cover-28.webp",
+      "scale": 1.0317029037312684,
+      "brightness": 1.0467681304475518
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 14.5,
+      "file": "gaming-cover-29.webp",
+      "scale": 1.0296415073046399,
+      "brightness": 1.0409962204529921
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 15.0,
+      "file": "gaming-cover-30.webp",
+      "scale": 1.0274999988824127,
+      "brightness": 1.0349999968707562
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 15.5,
+      "file": "gaming-cover-31.webp",
+      "scale": 1.0253584926953598,
+      "brightness": 1.029003779547008
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 16.0,
+      "file": "gaming-cover-32.webp",
+      "scale": 1.0232970962687313,
+      "brightness": 1.0232318695524483
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 16.5,
+      "file": "gaming-cover-33.webp",
+      "scale": 1.0213871411644069,
+      "brightness": 1.0178839952603398
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 17.0,
+      "file": "gaming-cover-34.webp",
+      "scale": 1.0196848979415858,
+      "brightness": 1.0131177142364403
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 17.5,
+      "file": "gaming-cover-35.webp",
+      "scale": 1.0182290477932767,
+      "brightness": 1.0090413338211752
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 18.0,
+      "file": "gaming-cover-36.webp",
+      "scale": 1.0170414960962009,
+      "brightness": 1.0057161890693624
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 18.5,
+      "file": "gaming-cover-37.webp",
+      "scale": 1.016130258052697,
+      "brightness": 1.0031647225475515
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 19.0,
+      "file": "gaming-cover-38.webp",
+      "scale": 1.0154930613200193,
+      "brightness": 1.0013805716960542
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 19.5,
+      "file": "gaming-cover-39.webp",
+      "scale": 1.0151207435794598,
+      "brightness": 1.0003380820224876
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 20.0,
+      "file": "gaming-cover-40.webp",
+      "scale": 1.015,
+      "brightness": 1.0000000000000002
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 0.0,
+      "file": "software-mobile-cover-00.webp",
+      "scale": 1.015,
+      "brightness": 1.0000000000000002
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 0.5,
+      "file": "software-mobile-cover-01.webp",
+      "scale": 1.015062786661319,
+      "brightness": 1.0003380820224876
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 1.0,
+      "file": "software-mobile-cover-02.webp",
+      "scale": 1.01525639188641,
+      "brightness": 1.0013805716960542
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 1.5,
+      "file": "software-mobile-cover-03.webp",
+      "scale": 1.0155877341874024,
+      "brightness": 1.0031647225475515
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 2.0,
+      "file": "software-mobile-cover-04.webp",
+      "scale": 1.0160615779700244,
+      "brightness": 1.0057161890693624
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 2.5,
+      "file": "software-mobile-cover-05.webp",
+      "scale": 1.016679104852504,
+      "brightness": 1.0090413338211752
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 3.0,
+      "file": "software-mobile-cover-06.webp",
+      "scale": 1.0174361469296245,
+      "brightness": 1.0131177142364403
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 3.5,
+      "file": "software-mobile-cover-07.webp",
+      "scale": 1.0183213134054916,
+      "brightness": 1.0178839952603398
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 4.0,
+      "file": "software-mobile-cover-08.webp",
+      "scale": 1.0193144900597404,
+      "brightness": 1.0232318695524483
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 4.5,
+      "file": "software-mobile-cover-09.webp",
+      "scale": 1.020386416201587,
+      "brightness": 1.029003779547008
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 5.0,
+      "file": "software-mobile-cover-10.webp",
+      "scale": 1.0214999994188547,
+      "brightness": 1.0349999968707562
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 5.5,
+      "file": "software-mobile-cover-11.webp",
+      "scale": 1.0226135837984127,
+      "brightness": 1.0409962204529921
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 6.0,
+      "file": "software-mobile-cover-12.webp",
+      "scale": 1.0236855099402595,
+      "brightness": 1.0467681304475518
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 6.5,
+      "file": "software-mobile-cover-13.webp",
+      "scale": 1.0246786865945083,
+      "brightness": 1.0521160047396603
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 7.0,
+      "file": "software-mobile-cover-14.webp",
+      "scale": 1.0255638530703752,
+      "brightness": 1.0568822857635598
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 7.5,
+      "file": "software-mobile-cover-15.webp",
+      "scale": 1.026320895147496,
+      "brightness": 1.0609586661788248
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 8.0,
+      "file": "software-mobile-cover-16.webp",
+      "scale": 1.0269384220299755,
+      "brightness": 1.0642838109306374
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 8.5,
+      "file": "software-mobile-cover-17.webp",
+      "scale": 1.0274122658125975,
+      "brightness": 1.0668352774524483
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 9.0,
+      "file": "software-mobile-cover-18.webp",
+      "scale": 1.0277436081135898,
+      "brightness": 1.0686194283039456
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 9.5,
+      "file": "software-mobile-cover-19.webp",
+      "scale": 1.0279372133386808,
+      "brightness": 1.0696619179775122
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 10.0,
+      "file": "software-mobile-cover-20.webp",
+      "scale": 1.0279999999999998,
+      "brightness": 1.0699999999999998
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 10.5,
+      "file": "software-mobile-cover-21.webp",
+      "scale": 1.0279372133386808,
+      "brightness": 1.0696619179775122
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 11.0,
+      "file": "software-mobile-cover-22.webp",
+      "scale": 1.0277436081135898,
+      "brightness": 1.0686194283039456
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 11.5,
+      "file": "software-mobile-cover-23.webp",
+      "scale": 1.0274122658125975,
+      "brightness": 1.0668352774524483
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 12.0,
+      "file": "software-mobile-cover-24.webp",
+      "scale": 1.0269384220299755,
+      "brightness": 1.0642838109306374
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 12.5,
+      "file": "software-mobile-cover-25.webp",
+      "scale": 1.026320895147496,
+      "brightness": 1.0609586661788248
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 13.0,
+      "file": "software-mobile-cover-26.webp",
+      "scale": 1.0255638530703752,
+      "brightness": 1.0568822857635598
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 13.5,
+      "file": "software-mobile-cover-27.webp",
+      "scale": 1.0246786865945083,
+      "brightness": 1.0521160047396603
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 14.0,
+      "file": "software-mobile-cover-28.webp",
+      "scale": 1.0236855099402595,
+      "brightness": 1.0467681304475518
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 14.5,
+      "file": "software-mobile-cover-29.webp",
+      "scale": 1.0226135837984127,
+      "brightness": 1.0409962204529921
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 15.0,
+      "file": "software-mobile-cover-30.webp",
+      "scale": 1.0214999994188547,
+      "brightness": 1.0349999968707562
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 15.5,
+      "file": "software-mobile-cover-31.webp",
+      "scale": 1.020386416201587,
+      "brightness": 1.029003779547008
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 16.0,
+      "file": "software-mobile-cover-32.webp",
+      "scale": 1.0193144900597404,
+      "brightness": 1.0232318695524483
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 16.5,
+      "file": "software-mobile-cover-33.webp",
+      "scale": 1.0183213134054916,
+      "brightness": 1.0178839952603398
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 17.0,
+      "file": "software-mobile-cover-34.webp",
+      "scale": 1.0174361469296245,
+      "brightness": 1.0131177142364403
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 17.5,
+      "file": "software-mobile-cover-35.webp",
+      "scale": 1.016679104852504,
+      "brightness": 1.0090413338211752
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 18.0,
+      "file": "software-mobile-cover-36.webp",
+      "scale": 1.0160615779700244,
+      "brightness": 1.0057161890693624
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 18.5,
+      "file": "software-mobile-cover-37.webp",
+      "scale": 1.0155877341874024,
+      "brightness": 1.0031647225475515
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 19.0,
+      "file": "software-mobile-cover-38.webp",
+      "scale": 1.01525639188641,
+      "brightness": 1.0013805716960542
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 19.5,
+      "file": "software-mobile-cover-39.webp",
+      "scale": 1.015062786661319,
+      "brightness": 1.0003380820224876
+    },
+    {
+      "mode": "software-mobile",
+      "time_seconds": 20.0,
+      "file": "software-mobile-cover-40.webp",
+      "scale": 1.015,
+      "brightness": 1.0000000000000002
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 0.0,
+      "file": "gaming-mobile-cover-00.webp",
+      "scale": 1.015,
+      "brightness": 1.0000000000000002
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 0.5,
+      "file": "gaming-mobile-cover-01.webp",
+      "scale": 1.0151207435794598,
+      "brightness": 1.0003380820224876
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 1.0,
+      "file": "gaming-mobile-cover-02.webp",
+      "scale": 1.0154930613200193,
+      "brightness": 1.0013805716960542
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 1.5,
+      "file": "gaming-mobile-cover-03.webp",
+      "scale": 1.016130258052697,
+      "brightness": 1.0031647225475515
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 2.0,
+      "file": "gaming-mobile-cover-04.webp",
+      "scale": 1.0170414960962009,
+      "brightness": 1.0057161890693624
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 2.5,
+      "file": "gaming-mobile-cover-05.webp",
+      "scale": 1.0182290477932767,
+      "brightness": 1.0090413338211752
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 3.0,
+      "file": "gaming-mobile-cover-06.webp",
+      "scale": 1.0196848979415858,
+      "brightness": 1.0131177142364403
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 3.5,
+      "file": "gaming-mobile-cover-07.webp",
+      "scale": 1.0213871411644069,
+      "brightness": 1.0178839952603398
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 4.0,
+      "file": "gaming-mobile-cover-08.webp",
+      "scale": 1.0232970962687313,
+      "brightness": 1.0232318695524483
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 4.5,
+      "file": "gaming-mobile-cover-09.webp",
+      "scale": 1.0253584926953598,
+      "brightness": 1.029003779547008
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 5.0,
+      "file": "gaming-mobile-cover-10.webp",
+      "scale": 1.0274999988824127,
+      "brightness": 1.0349999968707562
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 5.5,
+      "file": "gaming-mobile-cover-11.webp",
+      "scale": 1.0296415073046399,
+      "brightness": 1.0409962204529921
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 6.0,
+      "file": "gaming-mobile-cover-12.webp",
+      "scale": 1.0317029037312684,
+      "brightness": 1.0467681304475518
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 6.5,
+      "file": "gaming-mobile-cover-13.webp",
+      "scale": 1.0336128588355928,
+      "brightness": 1.0521160047396603
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 7.0,
+      "file": "gaming-mobile-cover-14.webp",
+      "scale": 1.0353151020584141,
+      "brightness": 1.0568822857635598
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 7.5,
+      "file": "gaming-mobile-cover-15.webp",
+      "scale": 1.036770952206723,
+      "brightness": 1.0609586661788248
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 8.0,
+      "file": "gaming-mobile-cover-16.webp",
+      "scale": 1.037958503903799,
+      "brightness": 1.0642838109306374
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 8.5,
+      "file": "gaming-mobile-cover-17.webp",
+      "scale": 1.038869741947303,
+      "brightness": 1.0668352774524483
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 9.0,
+      "file": "gaming-mobile-cover-18.webp",
+      "scale": 1.0395069386799805,
+      "brightness": 1.0686194283039456
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 9.5,
+      "file": "gaming-mobile-cover-19.webp",
+      "scale": 1.03987925642054,
+      "brightness": 1.0696619179775122
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 10.0,
+      "file": "gaming-mobile-cover-20.webp",
+      "scale": 1.0399999999999998,
+      "brightness": 1.0699999999999998
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 10.5,
+      "file": "gaming-mobile-cover-21.webp",
+      "scale": 1.03987925642054,
+      "brightness": 1.0696619179775122
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 11.0,
+      "file": "gaming-mobile-cover-22.webp",
+      "scale": 1.0395069386799805,
+      "brightness": 1.0686194283039456
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 11.5,
+      "file": "gaming-mobile-cover-23.webp",
+      "scale": 1.038869741947303,
+      "brightness": 1.0668352774524483
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 12.0,
+      "file": "gaming-mobile-cover-24.webp",
+      "scale": 1.037958503903799,
+      "brightness": 1.0642838109306374
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 12.5,
+      "file": "gaming-mobile-cover-25.webp",
+      "scale": 1.036770952206723,
+      "brightness": 1.0609586661788248
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 13.0,
+      "file": "gaming-mobile-cover-26.webp",
+      "scale": 1.0353151020584141,
+      "brightness": 1.0568822857635598
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 13.5,
+      "file": "gaming-mobile-cover-27.webp",
+      "scale": 1.0336128588355928,
+      "brightness": 1.0521160047396603
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 14.0,
+      "file": "gaming-mobile-cover-28.webp",
+      "scale": 1.0317029037312684,
+      "brightness": 1.0467681304475518
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 14.5,
+      "file": "gaming-mobile-cover-29.webp",
+      "scale": 1.0296415073046399,
+      "brightness": 1.0409962204529921
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 15.0,
+      "file": "gaming-mobile-cover-30.webp",
+      "scale": 1.0274999988824127,
+      "brightness": 1.0349999968707562
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 15.5,
+      "file": "gaming-mobile-cover-31.webp",
+      "scale": 1.0253584926953598,
+      "brightness": 1.029003779547008
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 16.0,
+      "file": "gaming-mobile-cover-32.webp",
+      "scale": 1.0232970962687313,
+      "brightness": 1.0232318695524483
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 16.5,
+      "file": "gaming-mobile-cover-33.webp",
+      "scale": 1.0213871411644069,
+      "brightness": 1.0178839952603398
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 17.0,
+      "file": "gaming-mobile-cover-34.webp",
+      "scale": 1.0196848979415858,
+      "brightness": 1.0131177142364403
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 17.5,
+      "file": "gaming-mobile-cover-35.webp",
+      "scale": 1.0182290477932767,
+      "brightness": 1.0090413338211752
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 18.0,
+      "file": "gaming-mobile-cover-36.webp",
+      "scale": 1.0170414960962009,
+      "brightness": 1.0057161890693624
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 18.5,
+      "file": "gaming-mobile-cover-37.webp",
+      "scale": 1.016130258052697,
+      "brightness": 1.0031647225475515
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 19.0,
+      "file": "gaming-mobile-cover-38.webp",
+      "scale": 1.0154930613200193,
+      "brightness": 1.0013805716960542
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 19.5,
+      "file": "gaming-mobile-cover-39.webp",
+      "scale": 1.0151207435794598,
+      "brightness": 1.0003380820224876
+    },
+    {
+      "mode": "gaming-mobile",
+      "time_seconds": 20.0,
+      "file": "gaming-mobile-cover-40.webp",
+      "scale": 1.015,
+      "brightness": 1.0000000000000002
+    }
+  ]
+}

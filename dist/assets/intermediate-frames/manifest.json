@@ -1,0 +1,379 @@
+{
+  "fps": 2,
+  "duration_seconds": 15,
+  "note": "Intermedios calculados del eclipse, la geometría y el barrido de la V; snapshots de referencia a 1280 × 720. La web anima de forma continua a la frecuencia de pantalla.",
+  "frames": [
+    {
+      "mode": "software",
+      "time_seconds": 0,
+      "svg": "software-00.svg",
+      "png": "software-00.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 0,
+      "svg": "gaming-00.svg",
+      "png": "gaming-00.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 0.5,
+      "svg": "software-01.svg",
+      "png": "software-01.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 0.5,
+      "svg": "gaming-01.svg",
+      "png": "gaming-01.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 1,
+      "svg": "software-02.svg",
+      "png": "software-02.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 1,
+      "svg": "gaming-02.svg",
+      "png": "gaming-02.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 1.5,
+      "svg": "software-03.svg",
+      "png": "software-03.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 1.5,
+      "svg": "gaming-03.svg",
+      "png": "gaming-03.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 2,
+      "svg": "software-04.svg",
+      "png": "software-04.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 2,
+      "svg": "gaming-04.svg",
+      "png": "gaming-04.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 2.5,
+      "svg": "software-05.svg",
+      "png": "software-05.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 2.5,
+      "svg": "gaming-05.svg",
+      "png": "gaming-05.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 3,
+      "svg": "software-06.svg",
+      "png": "software-06.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 3,
+      "svg": "gaming-06.svg",
+      "png": "gaming-06.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 3.5,
+      "svg": "software-07.svg",
+      "png": "software-07.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 3.5,
+      "svg": "gaming-07.svg",
+      "png": "gaming-07.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 4,
+      "svg": "software-08.svg",
+      "png": "software-08.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 4,
+      "svg": "gaming-08.svg",
+      "png": "gaming-08.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 4.5,
+      "svg": "software-09.svg",
+      "png": "software-09.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 4.5,
+      "svg": "gaming-09.svg",
+      "png": "gaming-09.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 5,
+      "svg": "software-10.svg",
+      "png": "software-10.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 5,
+      "svg": "gaming-10.svg",
+      "png": "gaming-10.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 5.5,
+      "svg": "software-11.svg",
+      "png": "software-11.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 5.5,
+      "svg": "gaming-11.svg",
+      "png": "gaming-11.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 6,
+      "svg": "software-12.svg",
+      "png": "software-12.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 6,
+      "svg": "gaming-12.svg",
+      "png": "gaming-12.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 6.5,
+      "svg": "software-13.svg",
+      "png": "software-13.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 6.5,
+      "svg": "gaming-13.svg",
+      "png": "gaming-13.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 7,
+      "svg": "software-14.svg",
+      "png": "software-14.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 7,
+      "svg": "gaming-14.svg",
+      "png": "gaming-14.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 7.5,
+      "svg": "software-15.svg",
+      "png": "software-15.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 7.5,
+      "svg": "gaming-15.svg",
+      "png": "gaming-15.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 8,
+      "svg": "software-16.svg",
+      "png": "software-16.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 8,
+      "svg": "gaming-16.svg",
+      "png": "gaming-16.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 8.5,
+      "svg": "software-17.svg",
+      "png": "software-17.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 8.5,
+      "svg": "gaming-17.svg",
+      "png": "gaming-17.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 9,
+      "svg": "software-18.svg",
+      "png": "software-18.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 9,
+      "svg": "gaming-18.svg",
+      "png": "gaming-18.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 9.5,
+      "svg": "software-19.svg",
+      "png": "software-19.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 9.5,
+      "svg": "gaming-19.svg",
+      "png": "gaming-19.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 10,
+      "svg": "software-20.svg",
+      "png": "software-20.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 10,
+      "svg": "gaming-20.svg",
+      "png": "gaming-20.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 10.5,
+      "svg": "software-21.svg",
+      "png": "software-21.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 10.5,
+      "svg": "gaming-21.svg",
+      "png": "gaming-21.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 11,
+      "svg": "software-22.svg",
+      "png": "software-22.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 11,
+      "svg": "gaming-22.svg",
+      "png": "gaming-22.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 11.5,
+      "svg": "software-23.svg",
+      "png": "software-23.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 11.5,
+      "svg": "gaming-23.svg",
+      "png": "gaming-23.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 12,
+      "svg": "software-24.svg",
+      "png": "software-24.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 12,
+      "svg": "gaming-24.svg",
+      "png": "gaming-24.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 12.5,
+      "svg": "software-25.svg",
+      "png": "software-25.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 12.5,
+      "svg": "gaming-25.svg",
+      "png": "gaming-25.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 13,
+      "svg": "software-26.svg",
+      "png": "software-26.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 13,
+      "svg": "gaming-26.svg",
+      "png": "gaming-26.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 13.5,
+      "svg": "software-27.svg",
+      "png": "software-27.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 13.5,
+      "svg": "gaming-27.svg",
+      "png": "gaming-27.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 14,
+      "svg": "software-28.svg",
+      "png": "software-28.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 14,
+      "svg": "gaming-28.svg",
+      "png": "gaming-28.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 14.5,
+      "svg": "software-29.svg",
+      "png": "software-29.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 14.5,
+      "svg": "gaming-29.svg",
+      "png": "gaming-29.png"
+    },
+    {
+      "mode": "software",
+      "time_seconds": 15,
+      "svg": "software-30.svg",
+      "png": "software-30.png"
+    },
+    {
+      "mode": "gaming",
+      "time_seconds": 15,
+      "svg": "gaming-30.svg",
+      "png": "gaming-30.png"
+    }
+  ]
+}

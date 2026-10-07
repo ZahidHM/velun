@@ -28,3 +28,13 @@ La carpeta `dist` contiene el sitio listo para alojarlo en un servidor estático
 ## Sitio
 
 https://velun-worlds.zahidlol321.chatgpt.site
+
+## Paquetes de frames
+
+Los dos ZIP de frames más grandes se almacenan en partes para permitir la transferencia completa. `npm run build` los reconstruye automáticamente y verifica su integridad. También puedes reconstruirlos con:
+
+```bash
+node scripts/restore-frame-archives.mjs
+```
+
+Los frames individuales están disponibles directamente en `dist/assets/cover-frames/` y `dist/assets/intermediate-frames/`.
